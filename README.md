@@ -1,2 +1,2 @@
 # LaMDA-pytorch
-Google's LaMDA model implementation in PyTorch.
+This is a PyTorch implementation of the LaMDA model in "LaMDA: Language Models for Dialog Applications" (Google, arXiv, 2022).
